@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework #9</string>
+    <string name="all">All</string>
+    <string name="party">🎉\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0Party</string>
+    <string name="camping">🏕\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0Camping</string>
+    <string name="category1">Category1</string>
+    <string name="category2">Category2</string>
+    <string name="category3">Category3</string>
+    <string name="belt_suit_blazer">Belt Suit Blazer</string>
+    <string name="_120">$120</string>
+</resources>
